@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="NewFoundDeviceView">
+        <attr name="deviceName" format="string" />
+        <attr name="deviceIp" format="string" />
+    </declare-styleable>
+</resources>

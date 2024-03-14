@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LEDSync</string>
+    <string name="find_devices_btn_text">Find devices</string>
+</resources>
